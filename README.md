@@ -63,4 +63,4 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 
 
 
-<a href="[[PowerBI/(https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](Github Pages)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)">Click Here to View the Full Insights and Recommendations</a>
+<a href="[[[PowerBI/(https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](Github Pages)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)">Click Here to View the Full Insights and Recommendations</a>
