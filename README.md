@@ -37,39 +37,28 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 ## INSIGHTS:  
 **Sales Trend Insights**
 1. Annual Revenue Trends:
-_ 2023 witnessed the highest revenue, likely driven by an increase in the quantity sold year over year (Y/Y).
+- 2023 witnessed the highest revenue, likely driven by an increase in the quantity sold year over year (Y/Y).
 2. Monthly Revenue Trends:
-_November, December, and September recorded the highest revenue and quantity sold, contributing to 43.6% of the annual revenue.
-_Historically, there is a consistent dip in sales every February and October.
-_From 2020 to 2022, revenue typically increased from November to December. However, in 2023, revenue started to decline in December.
+- November, December, and September recorded the highest revenue and quantity sold, contributing to 43.6% of the annual revenue.
+- Historically, there is a consistent dip in sales every February and October.
+- From 2020 to 2022, revenue typically increased from November to December. However, in 2023, revenue started to decline in December.
 **Profit Review Insights**
 1. Quantity vs. Profit Correlation:
-_ There is no direct correlation between the quantity sold and the total profit or profit margin.
+- There is no direct correlation between the quantity sold and the total profit or profit margin.
 2. Profit Determinants:
-_ Gain and Loss Impact: Total profit is influenced by the balance between gain and loss. An increase in losses directly reduces profit.
-_ Discount Effect: Offering higher discounts on products, above their profit margins, leads to lower profits and incurs losses.
-**Customer Shopping Habits.....**
-**Product performance.........**
+- Gain and Loss Impact: Total profit is influenced by the balance between gain and loss. An increase in losses directly reduces profit.
+- Discount Effect: Offering higher discounts on products, above their profit margins, leads to lower profits and incurs losses.
+
 
 ## RECOMMENDATIONS:  
 
 **Sales Trend and Customer Shopping Habits**
-_ Investigate December 2023: Conduct research to understand what activities were done differently in December 2023 that led to changes in sales trends.
-_ Boost Sales in Peak Months: 
--Increase marketing efforts in September, November, and December to take advantage of high sales periods. 
--Make sure there is enough stock to meet increased demand during these peak months, especially for popular items like chairs, phones, binders, and papers.
-_ Engage the Consumer Segment:
-- Use data to create personalized marketing campaigns for the consumer segment, which is the largest and most impactful group.
-- Offer bundles that combine popular items like chairs and phones with office supplies to attract consumers.
-_Enhance Corporate and Home Office Segments.....
-_ Address October Sales Dip....
-_Leverage Regional Strengths...
+- Investigate December 2023: Conduct research to understand what activities were done differently in December 2023 that led to changes in sales trends.
+- Boost Sales in Peak Months: Increase marketing efforts in September, November, and December to take advantage of high sales periods. Make sure there is enough stock to meet increased demand during these peak months, especially for popular items like chairs, phones, binders, and papers.
+- Engage the Consumer Segment: Use data to create personalized marketing campaigns for the consumer segment, which is the largest and most impactful group. Offer bundles that combine popular items like chairs and phones with office supplies to attract consumers.
 
 **Product Performance and Profit Optimization**
-_ Improve Table Profitability:
-o	Find ways to reduce the procurement costs for tables to improve profit margins.
-o	Add features or create premium versions of tables to justify higher prices and increase profitability.
-_Optimize Discount Strategies......
+- Improve Table Profitability: Find ways to reduce the procurement costs for tables to improve profit margins. Add features or create premium versions of tables to justify higher prices and increase profitability.
 
 
 
