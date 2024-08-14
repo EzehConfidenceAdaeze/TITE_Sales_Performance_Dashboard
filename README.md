@@ -71,7 +71,7 @@ o	Highest Purchased Category: Office supplies are the highest purchased product 
 o	Top Products by Sales: Chairs and phones are the highest purchased products by sales across each segment.
 o	Top Products by Quantity: Binders and papers are the highest purchased products by quantity across each segment.
 
-Github Page: [[[PowerBI/(https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](Github Pages)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)
+<a href="[[PowerBI/(https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](Github Pages)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)">Click Here to View the Insights and Recommendations</a>
 
 # CONCLUSIONS:  
 - Ensure consistent stocking of Product 41 to meet the high demand observed in January. 
