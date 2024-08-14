@@ -1,4 +1,4 @@
-### TITE Sales Performance Dashboard
+# TITE Sales Performance Dashboard
 
 ## PROBLEM STATEMENT:  
 TITE is a growing retailer specializing in electronic gadgets and accessories. Recently, the company has been experiencing a trend where sales continue to grow steadily, yet profitability is declining. They seek to understand the underlying factors causing this discrepancy and to optimize their operations to improve profitability without compromising sales growth.
@@ -31,7 +31,7 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 <img src="PowerBI/Sales performance dash1.png">
 <img src="PowerBI/Sales performance dash2.png">
 
-# TECH STACK: 
+## TECH STACK: 
 - PowerBI
 
 ## INSIGHTS:  
@@ -56,7 +56,6 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 - Investigate December 2023: Conduct research to understand what activities were done differently in December 2023 that led to changes in sales trends.
 - Boost Sales in Peak Months: Increase marketing efforts in September, November, and December to take advantage of high sales periods. Make sure there is enough stock to meet increased demand during these peak months, especially for popular items like chairs, phones, binders, and papers.
 - Engage the Consumer Segment: Use data to create personalized marketing campaigns for the consumer segment, which is the largest and most impactful group. Offer bundles that combine popular items like chairs and phones with office supplies to attract consumers.
-
 **Product Performance and Profit Optimization**
 - Improve Table Profitability: Find ways to reduce the procurement costs for tables to improve profit margins. Add features or create premium versions of tables to justify higher prices and increase profitability.
 
