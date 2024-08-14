@@ -70,7 +70,8 @@ o	The standard class is the preferred shipping mode across all segments.
 o	Highest Purchased Category: Office supplies are the highest purchased product category by quantity across all segments.
 o	Top Products by Sales: Chairs and phones are the highest purchased products by sales across each segment.
 o	Top Products by Quantity: Binders and papers are the highest purchased products by quantity across each segment.
-[PowerBI/TITE SALES PERFORMANCE ANALYSIS_1.pdf](Github Pages)
+
+Github Page: [[[PowerBI/(https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)](Github Pages)](https://github.com/EzehConfidenceAdaeze/Sales-Analysis_Personal-Project/blob/main/PowerBI/TITE%20SALES%20PERFORMANCE%20ANALYSIS_1.pdf)
 
 # CONCLUSIONS:  
 - Ensure consistent stocking of Product 41 to meet the high demand observed in January. 
