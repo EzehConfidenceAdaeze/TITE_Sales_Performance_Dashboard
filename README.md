@@ -63,4 +63,4 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 
 
 
-<a href="PowerBI/TITE SALES PERFORMANCE ANALYSIS.pptx">Click to Download PowerPoint to view the Full Insights and Recommendations</a>
+<a href="PowerBI/TITE SALES PERFORMANCE ANALYSIS.pptx">Click Here to Download the PowerPoint Report for Full Insights and Recommendations</a>
