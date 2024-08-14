@@ -42,6 +42,7 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 - November, December, and September recorded the highest revenue and quantity sold, contributing to 43.6% of the annual revenue.
 - Historically, there is a consistent dip in sales every February and October.
 - From 2020 to 2022, revenue typically increased from November to December. However, in 2023, revenue started to decline in December.
+  
 **Profit Review Insights**
 1. Quantity vs. Profit Correlation:
 - There is no direct correlation between the quantity sold and the total profit or profit margin.
@@ -56,6 +57,7 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 - Investigate December 2023: Conduct research to understand what activities were done differently in December 2023 that led to changes in sales trends.
 - Boost Sales in Peak Months: Increase marketing efforts in September, November, and December to take advantage of high sales periods. Make sure there is enough stock to meet increased demand during these peak months, especially for popular items like chairs, phones, binders, and papers.
 - Engage the Consumer Segment: Use data to create personalized marketing campaigns for the consumer segment, which is the largest and most impactful group. Offer bundles that combine popular items like chairs and phones with office supplies to attract consumers.
+  
 **Product Performance and Profit Optimization**
 - Improve Table Profitability: Find ways to reduce the procurement costs for tables to improve profit margins. Add features or create premium versions of tables to justify higher prices and increase profitability.
 
