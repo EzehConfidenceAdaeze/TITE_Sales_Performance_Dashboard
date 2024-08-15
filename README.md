@@ -1,4 +1,4 @@
-# TITE Sales Performance Dashboard
+# SALES AND PROFIT OPTIMIZATION FOR TITE
 
 ## PROBLEM STATEMENT:  
 TITE is a growing retailer specializing in electronic gadgets and accessories. Recently, the company has been experiencing a trend where sales continue to grow steadily, yet profitability is declining. They seek to understand the underlying factors causing this discrepancy and to optimize their operations to improve profitability without compromising sales growth.
